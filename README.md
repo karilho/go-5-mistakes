@@ -53,7 +53,6 @@ func verificarAcesso(idade int) string {
 Concorrencia em Go = Brigam por determinado recurso, mas não necessariamente ao mesmo tempo. [DRIVETHRU]
 
 Paralelismo em Go = Dividem tarefas para serem executadas ao mesmo tempo. [PEDÁGIO]
----
 
 
 ---
